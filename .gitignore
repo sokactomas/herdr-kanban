@@ -1,0 +1,11 @@
+# Herdr type stubs and editor config generated next to mods
+gpui-kit.d.ts
+herdr.d.ts
+jsconfig.json
+
+# OS / tooling
+__pycache__/
+.DS_Store
+
+# a developer's own settings (when the repo's mods/kanban is linked into Herdr)
+mods/kanban/settings.json

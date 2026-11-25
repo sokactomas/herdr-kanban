@@ -1,0 +1,5 @@
+{
+  "global": {
+    "cmd-shift-k": { "command": "tab.new", "args": { "name": "Kanban", "mod": "kanban" } }
+  }
+}
